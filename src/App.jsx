@@ -51,7 +51,7 @@ function App() {
               </h1>
               <h2 className="h4 mb-4">
                 Welcome to the Minimal theme.
-                Prueba Modificación de Lexfer Ramirez.
+                Prueba Modificación de Lexfer Ramirez Polidor.
                 This is an HTML widget that you can modify in the Page Builder section.
                 You can also modify the style in the Template Builder section.
               </h2>
